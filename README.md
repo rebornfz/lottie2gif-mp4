@@ -7,5 +7,5 @@ use:
 ./lottie2gifmp4 jsonfile
 
 Dependencies:
-rlottie: https://github.com/Samsung/rlottie.git/ /n
+rlottie: https://github.com/Samsung/rlottie.git/ 
 ffmpeg: https://github.com/FFmpeg/FFmpeg.git
