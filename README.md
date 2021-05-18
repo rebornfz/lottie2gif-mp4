@@ -1,5 +1,7 @@
 # lottie2gif-mp4
 
+Using rlottie and ffmpeg to transform a Lottie animation into a mp4 video and a gif
+
 build:
 bazel build lottie2gifmp4
 
